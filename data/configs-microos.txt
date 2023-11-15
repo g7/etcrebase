@@ -5,6 +5,7 @@
 /etc/group
 /etc/subgid
 /etc/subuid
+/etc/resolv.conf
 /etc/hosts
 /etc/hosts.allow
 /etc/hosts.deny
