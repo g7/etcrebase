@@ -19,7 +19,7 @@
 
 %{?sle15_python_module_pythons}
 Name:           python-etcrebase
-Version:        0.0.1
+Version:        0.0.2
 Release:        0
 Summary:        Rebases a new /etc with existing changes from a different installation
 License:        GPL-2.0+
